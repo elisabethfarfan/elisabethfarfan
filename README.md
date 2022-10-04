@@ -10,7 +10,7 @@
 
 ### 🌐 Socials:
   
-  <image src="https://user-images.githubusercontent.com/12961803/193822149-e3dae874-0078-42df-a64e-5a858d8de563.png" alt="Descripción de la imagen" width="200">
+  <image src="https://user-images.githubusercontent.com/12961803/193822149-e3dae874-0078-42df-a64e-5a858d8de563.png" alt="Descripción de la imagen" width="100">
     
        
 ### 💻 Tech Stack:
