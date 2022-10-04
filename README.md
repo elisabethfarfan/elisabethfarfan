@@ -9,7 +9,8 @@
     📫Contáctame: elisabethfarfan@gmail.com
 
 ### 🌐 Socials:
-   ![image](https://user-images.githubusercontent.com/12961803/193821808-5b68a221-5e11-4df8-bf6c-a61943c6f397.png)
+  
+  <image src="![image](https://user-images.githubusercontent.com/12961803/193822149-e3dae874-0078-42df-a64e-5a858d8de563.png)" alt="Descripción de la imagen">
     
        
 ### 💻 Tech Stack:
