@@ -1,6 +1,5 @@
 ### Hi there 👋
- 
- ![texto_alternativo](https://scontent.faqp2-1.fna.fbcdn.net/v/t39.30808-6/302299402_5938713642828963_7253246786725737468_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=f7V-YfqeOTEAX_eRvYL&_nc_ht=scontent.faqp2-1.fna&oh=00_AT8MptS4WQ3ZYKxL1XzBECfCqvrWmPCn_5hv_z0-9JSuZQ&oe=6340B87C){width=30px }
+<img src="https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large](https://scontent.faqp2-1.fna.fbcdn.net/v/t39.30808-6/302299402_5938713642828963_7253246786725737468_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=f7V-YfqeOTEAX_eRvYL&_nc_ht=scontent.faqp2-1.fna&oh=00_AT8MptS4WQ3ZYKxL1XzBECfCqvrWmPCn_5hv_z0-9JSuZQ&oe=6340B87C" alt="" width="30px">
 
  
 ### 💫 About Me:
