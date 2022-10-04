@@ -4,10 +4,12 @@
     👩🏻‍💻 Soy bachiller en ingeniería de sistemas, especializada en desarrollo Front-end.
     🤓 Me apasiona la tecnología, el desarrollo de software y la investigación 🦾
     💁🏻‍♀️ Como desarrolladora Front-end, me gusta crear soluciones para optimizar procesos haciendo uso e la tecnología 📲.
-    💛 Mi objetivo es continuar aprendiendo de nuevas tecnologías que me permitan crecer profesionalmente, compartir conocimiento 👩🏻‍🏫 y promover el interés de más personas por las carreras STEM👩🏻‍💻
+    💛 Mi objetivo es continuar aprendiendo de nuevas tecnologías que me permitan crecer profesionalmente, compartir conocimiento 👩🏻‍🏫 
+            y promover el interés de más personas por las carreras STEM👩🏻‍💻
     📫Contáctame: elisabethfarfan@gmail.com
 
 ### 🌐 Socials:
+        ![Texto alternativo](https://www.linkedin.com/in/elisabethfarfandeveloper/)
 <!--
 **elisabethfarfan/elisabethfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
