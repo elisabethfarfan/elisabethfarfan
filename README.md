@@ -9,14 +9,14 @@
     📫Contáctame: elisabethfarfan@gmail.com
 
 ### 🌐 Socials:
-
-       ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="![image](https://user-images.githubusercontent.com/12961803/193821756-020cfd13-466a-42c0-905c-e1eadf474b38.png)" />
+    
        
 ### 💻 Tech Stack:
 
        
         
-        ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+       
 
 ### 📊 GitHub Stats:
 
