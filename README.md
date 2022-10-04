@@ -14,11 +14,11 @@
 
 ### 📊 GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YOUR_USERNAME&count_private=true&theme=react&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=elisabethfarfan&count_private=true&theme=react&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=5&theme=react)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&langs_count=5&theme=react)]()
 
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME/github-contribution-stats/)
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elisabethfarfan)](https://github.com/elisabethfarfan/github-contribution-stats/)
 <!--
 **elisabethfarfan/elisabethfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
