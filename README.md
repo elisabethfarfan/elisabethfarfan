@@ -45,8 +45,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&langs_count=5&theme=react)]()
 
-<img src="https://camo.githubusercontent.com/ef6312e7b523290167bee393100ad0f8a18c4331a143eddcacd429e670fd702d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6770616f6c6167266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&amp;layout=compact&amp;langs_count=8&amp;theme=radical" style="max-width: 100%;">
-
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elisabethfarfan)](https://github.com/elisabethfarfan/github-contribution-stats/)
 <!--
 **elisabethfarfan/elisabethfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
