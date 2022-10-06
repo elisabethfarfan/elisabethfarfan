@@ -45,7 +45,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&langs_count=5&theme=react)]()
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elisabethfarfan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elisabethfarfan)](https://github.com/elisabethfarfan/github-contribution-stats/)
 <!--
