@@ -45,6 +45,8 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&langs_count=5&theme=react)]()
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elisabethfarfan&show_icons=true&theme=radical)
+
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elisabethfarfan)](https://github.com/elisabethfarfan/github-contribution-stats/)
 <!--
 **elisabethfarfan/elisabethfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
