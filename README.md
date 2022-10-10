@@ -37,15 +37,7 @@
     <a href="https://www.java.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/f2e55992ca80a5e95192891e0a5027243789561975b6bceb31437b3f6ad1d1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="max-width: 100%;"> </a>
 </p>    
 
-       
 
-### 📊 GitHub Stats:
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=elisabethfarfan&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elisabethfarfan&langs_count=5&theme=react)]()
-
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elisabethfarfan)](https://github.com/elisabethfarfan/github-contribution-stats/)
 <!--
 **elisabethfarfan/elisabethfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
