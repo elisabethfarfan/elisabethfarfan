@@ -29,7 +29,7 @@
    <a href="https://www.linkedin.com/in/elisabethfarfandeveloper" rel="nofollow">
       <img                              src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical- src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  
+  <a href="mailto:elisabethfarfan@gmail.com?subject=Hi%20Elisabeth"><img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   
 <!--
 **elisabethfarfan/elisabethfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
