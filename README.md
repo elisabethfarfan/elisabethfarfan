@@ -1,6 +1,7 @@
       
 ### ✨ Hi there 👋
-      💁🏻‍♀️ Mi nombre es Elisabeth y soy una pasionada por el desarrollo front-end <img src="https://img.freepik.com/vector-gratis/mujer-joven-usa-computadora-trabajar-reducir-infeccion_1150-34985.jpg" style="max-width: 100%;">
+      💁🏻‍♀️ Mi nombre es Elisabeth y soy una pasionada por el desarrollo front-end 
+   <img src="https://img.freepik.com/vector-gratis/mujer-joven-usa-computadora-trabajar-reducir-infeccion_1150-34985.jpg" style="max-width: 100%;">
 💼 Mi portafolio: <a href="https://elisabethfarfan.netlify.app/" rel="nofollow"> Aquí! </a>⚡
    
 ### 💫 About Me:
