@@ -1,7 +1,7 @@
       
 ### ✨ Hi there 👋
       💁🏻‍♀️ Mi nombre es Elisabeth y soy una pasionada por el desarrollo front-end
-      💻 Mi portfolio: Aquí!<a href="https://www.linkedin.com/in/elisabethfarfandeveloper](https://elisabethfarfan.netlify.app/" rel="nofollow"> ⚡
+      💻 Mi portfolio: [Aquí!]: https://elisabethfarfan.netlify.app/⚡
   
 ### 💫 About Me:
       💜 Actualmente estoy trabajando con Angular
